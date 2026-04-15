@@ -1,0 +1,50 @@
+=======================Transcription========================
+
+[0:00:00](lang: not detected)speaker_1:  Good afternoon. My name is Jonathan Lewis.
+[0:00:04](lang: not detected)speaker_2:  Good afternoon.
+[0:00:06](lang: not detected)speaker_2:  Can you tell me your full name please?
+[0:00:07](lang: not detected)speaker_2:  Please, and I'll show them.
+[0:00:09](lang: not detected)speaker_2:  Thank you. And what shall I call you?
+[0:00:11](lang: not detected)(No Face):  Please call me an I-O.
+[0:00:12](lang: not detected)speaker_1:  Where are you from?
+[0:00:14](lang: not detected)speaker_2:  I'm from India. Actually I come from Delhi.
+[0:00:17](lang: not detected)speaker_1:  In this first part of the test, I'm going to ask you some questions about yourself.
+[0:00:22](lang: not detected)speaker_1:  Do you work or are you a student?
+[0:00:24](lang: not detected)speaker_2:  No, I'm not working at the moment. I'm just studying.
+[0:00:27](lang: not detected)speaker_2:  What are you studying?
+[0:00:30](lang: not detected)speaker_1:  I'm doing bachelor's in media and communication studies.
+[0:00:33](lang: not detected)speaker_1:  Why did you choose that course?
+[0:00:38](lang: not detected)speaker_2:  Mainly because I think the scores are a variety of diverse options to choose from.
+[0:00:47](lang: not detected)speaker_2:  It could be a filmmaker or an actor or a journalist.
+[0:00:51](lang: not detected)speaker_2:  And also because I think this course offers you a chance to use your creative skills.
+[0:01:00](lang: not detected)speaker_2:  Let's talk about weather.
+[0:01:03](lang: not detected)speaker_1:  Is some of your favourite time of year?
+[0:01:06](lang: not detected)speaker_1:  Why or why not?
+[0:01:08](lang: not detected)(No Face):  No, it's not. Absolutely not.
+[0:01:10](lang: not detected)speaker_2:  Why not?
+[0:01:12](lang: not detected)speaker_2:  I think because in my country it's mostly summerish for like,
+[0:01:20](lang: not detected)speaker_2:  six months in a year.
+[0:01:22](lang: not detected)speaker_2:  And they're even hotter now because of the whole climate change situation.
+[0:01:26](lang: not detected)speaker_2:  And it's just very sweaty, your hair gets frizzy,
+[0:01:29](lang: not detected)(No Face):  your makeup keeps melting.
+[0:01:31](lang: not detected)(No Face):  So it's horrible in my country in summers.
+[0:01:34](lang: not detected)speaker_1:  I see. So what do you do in summer when the weather's very hot and why?
+[0:01:39](lang: not detected)speaker_1:  I get annoyed and grunky.
+[0:01:41](lang: not detected)speaker_2:  Other than that, I try to stay home.
+[0:01:46](lang: not detected)speaker_2:  Or I try to drink plenty of water so I don't get dehydrated.
+[0:01:52](lang: not detected)speaker_2:  And I also have to use a lot of insect repellent at night because the mosquitoes won't let you sleep.
+[0:02:00](lang: not detected)speaker_2:  So would you like travelling during summer?
+[0:02:04](lang: not detected)(No Face):  No, not really, to be honest.
+[0:02:07](lang: not detected)speaker_2:  I hate going out in summers.
+[0:02:09](lang: not detected)speaker_2:  It's miserable outside.
+[0:02:12](lang: not detected)speaker_2:  I try to stay home mostly.
+[0:02:15](lang: not detected)speaker_2:  Even if I go out with my friends, I make sure we go to a restaurant or someplace that's properly air conditioned.
+[0:02:22](lang: not detected)speaker_2:  I say, did you enjoy the summer holidays when you were at school?
+[0:02:26](lang: not detected)speaker_2:  Yeah, I did.
+[0:02:30](lang: not detected)speaker_2:  Maybe because when I was a kid I did not care much about the hot weather as much as I do now.
+[0:02:38](lang: not detected)speaker_1:  Or maybe because I did not have to attend my school.
+[0:02:43](lang: not detected)speaker_1:  But it was when my parents would take me out on lunch or to a park anywhere.
+[0:02:48](lang: not detected)speaker_2:  My cousins would come over.
+[0:02:50](lang: not detected)speaker_2:  We would play different indoor outdoor games.
+
+=======================End of output========================

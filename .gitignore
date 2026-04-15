@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# test files
+video_single_multilingual.mp4
+test.py
+
+# compiling dlib
+dlib.zip
+dlib/
