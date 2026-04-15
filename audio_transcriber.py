@@ -1,5 +1,5 @@
 # auto transcriber.py
-# Zichen Zhang 8/3/2025 started
+# FloralDew 8/3/2025 started
 # Python 3.13.3
 
 import numpy as np
